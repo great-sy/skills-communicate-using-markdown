@@ -17,3 +17,8 @@ int main(void)
     reuturn 0;
 }
 ```
+
+## 4. 할 일 목록 추가하기
+- [x] Markdown index.md에 할 일 목록 3개 추가하기
+- [x] 할 일 목록 추가하기 완료 후 Pull Reqeust 요청하기
+- [ ] Markdown 실습 5 진행하기
